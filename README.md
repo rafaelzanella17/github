@@ -1,2 +1,2 @@
-# Git-e-GitHub
+# github
 Básico de Git e GitHub
